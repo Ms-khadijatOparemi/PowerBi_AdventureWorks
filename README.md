@@ -2,7 +2,7 @@
 
 An analysis of Bicycle and Cycling Accessories
 
-https://teams.microsoft.com/_#/apps/1c4340de-2a85-40e5-8eb0-4f295368978b/sections/Home
+https://app.powerbi.com/groups/me/reports/769b40a9-ba7e-4d0f-9f6e-1f9fb3647460/ReportSection1620e76a9cdbb0edbcc8?experience=power-bi
 
 
 
